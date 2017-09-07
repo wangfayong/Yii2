@@ -20,5 +20,3 @@ $application = new yii\console\Application($config);
 $exitCode = $application->run();
 exit($exitCode);
 echo 2;
-//分支操作
-echo 3;
